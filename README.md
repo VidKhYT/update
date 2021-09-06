@@ -3,6 +3,9 @@
   "Title": "GrowEarn",
   "Description": "Update Now Noob",
   "MainTextButton": "Update",
-  "DownloadLink": "https://www.youtube.com",
-  "Version": "1.2"
+  "Cancelable": "false",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "www.example.com",
+  "Version": "1.1"
 }
+
