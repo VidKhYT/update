@@ -1,7 +1,7 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "GrowEarn",
+  "Description": "Update Now Noob",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
