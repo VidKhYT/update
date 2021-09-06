@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "GrowEarn",
+  "Description": "New Update",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.example.com",
+  "DownloadLink": "https://www.youtube.com",
   "Version": "1.1"
 }
