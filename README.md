@@ -1,5 +1,5 @@
 {
-  "Visibility": "GONE",
+  "Visibility": "VISIBLE",
   "Title": "GrowEarn",
   "Description": "Update Now Noob",
   "MainTextButton": "Update",
