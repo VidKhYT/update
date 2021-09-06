@@ -1,4 +1,3 @@
-
 {
   "Visibility": "GONE",
   "Title": "GrowEarn",
