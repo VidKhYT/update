@@ -6,6 +6,6 @@
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "www.example.com",
-  "Version": "1.1"
+  "Version": "1.5"
 }
 
