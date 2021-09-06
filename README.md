@@ -6,6 +6,6 @@
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.example.com",
+  "DownloadLink": "https://www.youtube.com",
   "Version": "1.1"
 }
