@@ -1,11 +1,11 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "GrowEarn",
-  "Description": "Update Now Noob",
+  "Title": "GrowShop",
+  "Description": "1.New UI & Feedback Activity",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.example.com",
-  "Version": "1.5"
+  "DownloadLink": "https://youtube.com/c/VPLAYGAMING",
+  "Version": "1.2"
 }
 
