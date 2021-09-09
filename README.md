@@ -5,7 +5,7 @@
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://youtube.com/c/VPLAYGAMING",
+  "DownloadLink": "hello",
   "Version": "1.2"
 }
 
