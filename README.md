@@ -1,11 +1,11 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "GrowShop",
-  "Description": "1.New UI & Feedback Activity",
-  "MainTextButton": "Update",
+  "Title": "Server Maintenance",
+  "Description": "You can visit of us Telegram",
+  "MainTextButton": "Join Telegram",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "hello",
-  "Version": "Test"
+  "DownloadLink": "https://t.me/growshopoffical",
+  "By": "Developer"
 }
 
