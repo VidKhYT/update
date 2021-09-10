@@ -6,6 +6,6 @@
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://t.me/growshopoffical",
-  "BY": "Developer"
+  "Version": "Last Version"
 }
 
