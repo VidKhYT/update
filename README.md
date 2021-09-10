@@ -1,8 +1,8 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Server Maintenance",
+  "Title": "Join Now",
   "Description": "You can visit of us Telegram",
-  "MainTextButton": "Join Telegram",
+  "MainTextButton": "Join",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://t.me/growshopoffical",
