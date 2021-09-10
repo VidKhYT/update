@@ -3,9 +3,9 @@
   "Title": "Server Maintenance",
   "Description": "You can visit of us Telegram",
   "MainTextButton": "UPDATE",
-  "Cancelable": "false",
+  "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://t.me/growshopoffical",
-  "By": "Developer"
+  "Version": "1.2"
 }
 
