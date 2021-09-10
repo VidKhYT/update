@@ -1,5 +1,5 @@
 {
-  "Visibility": "GONE",
+  "Visibility": "VISIBLE",
   "Title": "GrowShop",
   "Description": "1.New UI & Feedback Activity",
   "MainTextButton": "Update",
